@@ -1,0 +1,26 @@
+# Power BI file
+*.pbix
+
+# Screenshot outputs
+screenshots/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VSCode or IDE settings
+.vscode/
+.idea/
+
+# Python virtual environments (if any)
+venv/
+.env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak

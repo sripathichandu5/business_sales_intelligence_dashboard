@@ -1,0 +1,23 @@
+{
+    "name": "Corporate Modern",
+    "dataColors": ["#007ACC", "#2C3E50", "#F39C12", "#27AE60", "#E74C3C", "#8E44AD", "#16A085"],
+    "background": "#FFFFFF",
+    "foreground": "#2C3E50",
+    "tableAccent": "#007ACC",
+    "visualStyles": {
+      "*": {
+        "*": {
+          "titleText": [{ "color": "#2C3E50", "fontSize": 14, "fontFamily": "Segoe UI Semibold" }],
+          "labels": [{ "color": "#4D4D4D", "fontSize": 12 }],
+          "header": [{ "color": "#2C3E50", "fontSize": 13 }]
+        }
+      },
+      "card": {
+        "*": {
+          "labelColor": [{ "color": "#4D4D4D" }],
+          "valueColor": [{ "color": "#2C3E50" }]
+        }
+      }
+    }
+  }
+  
