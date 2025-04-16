@@ -24,7 +24,7 @@ This dashboard presents a professional and interactive way to monitor business p
 - 🎛️ **Filters:** Country, Product Line, Year
 
 🖼️ **Page 1 Preview:**  
-![Page 1 - Executive Sales Overview](dashboard_screenshot_page1.png)
+![Page 1 - Executive Sales Overview](screenshots/dashboard_screenshot_page1.png)
 
 ---
 
@@ -37,7 +37,7 @@ This dashboard presents a professional and interactive way to monitor business p
 - 🎛️ **Filters:** Product Line, Deal Size, Year, Country
 
 🖼️ **Page 2 Preview:**  
-![Page 2 - Product & Customer Insights](dashboard_screenshot_page2.png)
+![Page 2 - Product & Customer Insights](screenshots/dashboard_screenshot_page2.png)
 
 ---
 
