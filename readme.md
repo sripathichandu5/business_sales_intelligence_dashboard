@@ -24,7 +24,7 @@ This dashboard presents a professional and interactive way to monitor business p
 - 🎛️ **Filters:** Country, Product Line, Year
 
 🖼️ **Page 1 Preview:**  
-!(screenshots/dashboard_screenshot_page1.png)
+(🖼️ dashboard_screenshot_page1.png)
 
 ---
 
@@ -37,7 +37,7 @@ This dashboard presents a professional and interactive way to monitor business p
 - 🎛️ **Filters:** Product Line, Deal Size, Year, Country
 
 🖼️ **Page 2 Preview:**  
-!(screenshots/dashboard_screenshot_page2.png)
+!(🖼️ dashboard_screenshot_page2.png)
 
 ---
 
