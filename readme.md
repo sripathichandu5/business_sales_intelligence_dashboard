@@ -24,7 +24,8 @@ This dashboard presents a professional and interactive way to monitor business p
 - 🎛️ **Filters:** Country, Product Line, Year
 
 🖼️ **Page 1 Preview:**  
-(🖼️ dashboard_screenshot_page1.png)
+<img width="960" alt="🖼️ dashboard_screenshot_page1" src="https://github.com/user-attachments/assets/ad3f0d39-692a-48ff-b4b9-b0aaa4608acd" />
+
 
 ---
 
@@ -37,7 +38,7 @@ This dashboard presents a professional and interactive way to monitor business p
 - 🎛️ **Filters:** Product Line, Deal Size, Year, Country
 
 🖼️ **Page 2 Preview:**  
-!(🖼️ dashboard_screenshot_page2.png)
+<img width="960" alt="🖼️ dashboard_screenshot_page2" src="https://github.com/user-attachments/assets/975813ad-4c6d-42e1-9d90-7b0d86ebc15e" />
 
 ---
 
@@ -66,8 +67,8 @@ This dashboard presents a professional and interactive way to monitor business p
 **Sripathi Chandu**  
 🎓 MBA – Finance | 💻 Aspiring Data Analyst  
 📬 Looking for internships / entry-level roles in data analytics  
-🌐 [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) <!-- Replace this -->  
-📧 Email: sripathichandu@example.com <!-- Optional -->
+🌐 [LinkedIn](https://www.linkedin.com/in/sripathichandu) <!-- Replace this -->  
+📧 Email: sripathichandu5@gmail.com
 
 ---
 
